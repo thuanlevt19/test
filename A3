@@ -1,0 +1,14 @@
+* master
+rm 'C1'
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    C1
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   C2
+
+On branch alpha
+nothing to commit, working tree clean
